@@ -2,8 +2,8 @@
 
 This project has 2 main parts:
 
-    Part 1 - Develop a Pulse Rate Algorithm on the given training data. Then Test Your Algorithm and see that it has met the success criteria.
-    Part 2 - Apply the Pulse Rate Algorithm on a Clinical Application and compute more clinically meaningful features and discover healthcare trends.
+- Part 1 - Develop a Pulse Rate Algorithm on the given training data. Then Test Your Algorithm and see that it has met the success criteria.
+- Part 2 - Apply the Pulse Rate Algorithm on a Clinical Application and compute more clinically meaningful features and discover healthcare trends.
 
 ### Introduction
 
